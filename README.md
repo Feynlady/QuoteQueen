@@ -1,11 +1,11 @@
 # QuoteLad
-SPMM Project 2019 - Quote Recommendation Chat
+SPMM Project 2019 - Quote Recommendation Chatbot
 
 
 Dataset:
 https://github.com/ShivaliGoel/Quotes-500K
 
-##Deliverable 1
+### Deliverable 1
 Canvas: https://reykjavik.instructure.com/courses/2722/assignments/20246
 
 Scope document:
