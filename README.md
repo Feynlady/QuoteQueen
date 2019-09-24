@@ -1,4 +1,4 @@
-# QuoteLad
+# QuoteQueen
 SPMM Project 2019 - Quote Recommendation Chatbot
 
 
