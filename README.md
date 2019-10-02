@@ -13,3 +13,6 @@ https://onedrive.live.com/View.aspx?resid=D0717E8F12105298!206&authkey=!AGgJv4Sm
 
 List document: 
 https://reykjavikuniversity-my.sharepoint.com/:w:/r/personal/giang19_ru_is/_layouts/15/Doc.aspx?sourcedoc={ee347d97-85ae-4917-99f9-1f1c70757984}&action=edit&wdPid=1f28024e
+
+Presentation:
+https://docs.google.com/presentation/d/1zFz_qAu3tLTyQ6nCrpYBG_ZsJ1KHXq_EE2wcafRh0Tg/edit?usp=sharing
