@@ -18,7 +18,7 @@ Presentation:
 https://docs.google.com/presentation/d/1zFz_qAu3tLTyQ6nCrpYBG_ZsJ1KHXq_EE2wcafRh0Tg/edit?usp=sharing
 
 
-##TODO:
+## TODO:
 - [ ] Rename Github to QuoteQueen
 
 Scope document:
