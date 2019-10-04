@@ -1,4 +1,4 @@
-# QuoteQueen
+wiu# QuoteQueen
 SPMM Project 2019 - Quote Recommendation Chatbot
 
 
@@ -29,14 +29,14 @@ Scope document:
 - [ ] Find Thalea's brain
 
 Document list
-- [ ] Finish writing non-functional requirements
-- [ ] Write the rest of user scenarios for user stories - check user stories (if it makes sense)
+- [x] Finish writing non-functional requirements
+- [ ] Write the rest of user scenarios for user stories
 - [ ] Add storyboards (probably not mandatory?)
 - [x] Finish architecture and design
 - [ ] Product WBS
-- [ ] Functional point analysis
-- [ ] Estimate of the effort and duration of implementation (probably using COCOMO 1) - check if it's right
-- [ ] Schedule
+- [ ] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
+- [ ] Estimate of the effort and duration of implementation (probably using COCOMO 1) - according to FP analysis
+- [ ] Schedule - gantt chart
 
 Presentation:
 - [ ] Plan what we should talk about
