@@ -22,15 +22,15 @@ https://docs.google.com/presentation/d/1zFz_qAu3tLTyQ6nCrpYBG_ZsJ1KHXq_EE2wcafRh
 - [x] Rename Github to QuoteQueen
 
 Scope document:
-- [ ] Project WBS with Gantt chart
+- [x] Project WBS with Gantt chart
 - [ ] List of deliverables and milestones according to WBS
 - [ ] Check budget proposal according to WBS
-- [x] Partner's description and Team
+- [ ] Partner's description and Team
 - [ ] Find Thalea's brain
 
 Document list
-- [x] Finish writing non-functional requirements
-- [x] Write the rest of user scenarios for user stories - check user stories (if it makes sense)
+- [ ] Finish writing non-functional requirements
+- [ ] Write the rest of user scenarios for user stories - check user stories (if it makes sense)
 - [ ] Add storyboards (probably not mandatory?)
 - [x] Finish architecture and design
 - [ ] Product WBS
