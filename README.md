@@ -36,7 +36,7 @@ Document list
 - [ ] Product WBS
 - [ ] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
 - [ ] Estimate of the effort and duration of implementation (probably using COCOMO 1) - according to FP analysis
-- [ ] Schedule - gantt chart
+- [x] Schedule - gantt chart
 
 Presentation:
 - [ ] Plan what we should talk about
