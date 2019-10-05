@@ -24,7 +24,7 @@ https://docs.google.com/presentation/d/1zFz_qAu3tLTyQ6nCrpYBG_ZsJ1KHXq_EE2wcafRh
 Scope document:
 - [x] Project WBS with Gantt chart
 - [ ] List of deliverables and milestones according to WBS
-- [ ] Check budget proposal according to WBS
+- [x] Check budget proposal according to WBS
 - [x] Partner's description and Team
 - [x] Find Thalea's brain
 
