@@ -26,7 +26,7 @@ Scope document:
 - [ ] List of deliverables and milestones according to WBS
 - [ ] Check budget proposal according to WBS
 - [x] Partner's description and Team
-- [ ] Find Thalea's brain
+- [x] Find Thalea's brain
 
 Document list
 - [x] Finish writing non-functional requirements
