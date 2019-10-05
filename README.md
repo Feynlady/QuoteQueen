@@ -25,7 +25,7 @@ Scope document:
 - [x] Project WBS with Gantt chart
 - [ ] List of deliverables and milestones according to WBS
 - [ ] Check budget proposal according to WBS
-- [ ] Partner's description and Team
+- [x] Partner's description and Team
 - [ ] Find Thalea's brain
 
 Document list
