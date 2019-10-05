@@ -23,7 +23,7 @@ https://docs.google.com/presentation/d/1zFz_qAu3tLTyQ6nCrpYBG_ZsJ1KHXq_EE2wcafRh
 
 Scope document:
 - [x] Project WBS with Gantt chart
-- [ ] List of deliverables and milestones according to WBS
+- [x] List of deliverables and milestones according to WBS
 - [x] Check budget proposal according to WBS
 - [x] Partner's description and Team
 - [x] Find Thalea's brain
@@ -33,7 +33,7 @@ Document list
 - [ ] Write the rest of user scenarios for user stories
 - [x] Add storyboards (probably not mandatory?)
 - [x] Finish architecture and design
-- [ ] Product WBS
+- [x] Product WBS
 - [ ] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
 - [ ] Estimate of the effort and duration of implementation (probably using COCOMO 1) - according to FP analysis
 - [x] Schedule - gantt chart
