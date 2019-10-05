@@ -31,7 +31,7 @@ Scope document:
 Document list
 - [x] Finish writing non-functional requirements
 - [ ] Write the rest of user scenarios for user stories
-- [ ] Add storyboards (probably not mandatory?)
+- [x] Add storyboards (probably not mandatory?)
 - [x] Finish architecture and design
 - [ ] Product WBS
 - [ ] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
