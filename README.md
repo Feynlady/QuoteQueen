@@ -30,11 +30,11 @@ Scope document:
 
 Document list
 - [x] Finish writing non-functional requirements
-- [ ] Write the rest of user scenarios for user stories
+- [x] Write the rest of user scenarios for user stories
 - [x] Add storyboards (probably not mandatory?)
 - [x] Finish architecture and design
 - [x] Product WBS
-- [ ] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
+- [x] Functional point analysis - fill the table and compute raw FP and final FP (with env. factors)
 - [ ] Estimate of the effort and duration of implementation (probably using COCOMO 1) - according to FP analysis
 - [x] Schedule - gantt chart
 
