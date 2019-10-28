@@ -14,6 +14,7 @@ https://onedrive.live.com/View.aspx?resid=D0717E8F12105298!206&authkey=!AGgJv4Sm
 Document list (FINAL REPORT TEMPLATE):
 - 20-30 pages
 - times new roman, 12
+
 https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9NO6uhRdJmfkfHHB1eYQB35ZjujBbIWZ5qZfupPpJnA?e=ZRzzsc
 
 Presentation (Deliverable 2):
