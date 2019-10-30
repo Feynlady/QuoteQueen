@@ -32,7 +32,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] Section 8: Earned Value Analysis (use assumptions when needed)
 - [ ] Section 9: Risk Analysis (use scope document for inspiration)
 - [ ] Section 10: Design document** (see Design document)
-- [ ] Section 11: Deep critical thinking and discussion of the results 
+- [ ] Section 11: Deep critical thinking and discussion of the results - lessons learned and future work section
 
 #### **Design document (part of final report and presentation):
 - [ ] The application architecture, with reviewing each tier and connection between tiers. 
@@ -45,7 +45,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] Pinpoint Design (**see Design document)
 - [ ] Project outcomes
 - [ ] Prepare DEMO
-- [ ] Deep critical thinking and discussion of the results - lessons learned and future work section
+- [ ] Deep critical thinking and discussion of the results 
 
 
 
