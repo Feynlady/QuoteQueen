@@ -45,7 +45,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] Pinpoint Design (**see Design document)
 - [ ] Project outcomes
 - [ ] Prepare DEMO
-- [ ] Deep critical thinking and discussion of the results 
+- [ ] Deep critical thinking and discussion of the results - lessons learned and future work section
 
 
 
