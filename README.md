@@ -8,6 +8,10 @@ https://github.com/ShivaliGoel/Quotes-500K
 ### Deliverable 2
 Canvas: https://reykjavik.instructure.com/courses/2722/assignments/20248
 
+Presentation: https://docs.google.com/presentation/d/1hwwva88cCm2emuUNEfXdXhN5BM7KyTfD4Ls2iRHoUaM/edit?usp=sharing
+
+### Deliverable 3
+
 Scope document (also a part of final delivery):
 https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EYW5QGALZKtNg3wVSxQdc_oBq0XV07Swdv3gyfWD12evLg?e=oTwOns
 
@@ -16,9 +20,6 @@ Final report (used DocumentList as a template):
 - times new roman, 12
 
 https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9NO6uhRdJmfkfHHB1eYQB35ZjujBbIWZ5qZfupPpJnA?e=ZRzzsc
-
-Presentation (Deliverable 2): https://docs.google.com/presentation/d/1hwwva88cCm2emuUNEfXdXhN5BM7KyTfD4Ls2iRHoUaM/edit?usp=sharing
-
 
 ## TODO:
 
