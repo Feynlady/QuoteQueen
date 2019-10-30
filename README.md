@@ -30,10 +30,10 @@ Presentation (Deliverable 2): https://docs.google.com/presentation/d/1hwwva88cCm
 - [ ] Section 3: Detailed domain model with unit QUOTE (as data)
 - [ ] Section 8: Earned Value Analysis (use assumptions when needed)
 - [ ] Section 9: Risk Analysis (use scope document for inspiration)
-- [ ] Section 10: Design document 
+- [ ] Section 10: Design document** (see Design document)
 - [ ] Section 11: Deep critical thinking and discussion of the results 
 
-#### Design document (part of final report and presentation):
+#### **Design document (part of final report and presentation):
 - [ ] The application architecture, with reviewing each tier and connection between tiers. 
 - [ ] A summary of web page design or user interface design (how different views relate to each other). 
 - [ ] Database design if possible
@@ -41,7 +41,7 @@ Presentation (Deliverable 2): https://docs.google.com/presentation/d/1hwwva88cCm
 - [ ] A summary of configuration and management consideration (e.g., build tools, version control repositories, continuous integration tools, etc.)
 
 #### Presentation (due 7th November):
-- [ ] Pinpoint Design (see Design document)
+- [ ] Pinpoint Design (**see Design document)
 - [ ] Project outcomes
 - [ ] Prepare DEMO
 - [ ] Deep critical thinking and discussion of the results 
