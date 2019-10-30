@@ -11,7 +11,7 @@ Canvas: https://reykjavik.instructure.com/courses/2722/assignments/20248
 Scope document (also a part of final delivery):
 https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EYW5QGALZKtNg3wVSxQdc_oBq0XV07Swdv3gyfWD12evLg?e=oTwOns
 
-Document list (FINAL REPORT TEMPLATE):
+Final report (used DocumentList as a template):
 - 20-30 pages
 - times new roman, 12
 
