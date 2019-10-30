@@ -9,7 +9,7 @@ https://github.com/ShivaliGoel/Quotes-500K
 Canvas: https://reykjavik.instructure.com/courses/2722/assignments/20248
 
 Scope document (also a part of final delivery):
-https://onedrive.live.com/View.aspx?resid=D0717E8F12105298!206&authkey=!AGgJv4Sman7l-D0
+https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EYW5QGALZKtNg3wVSxQdc_oBq0XV07Swdv3gyfWD12evLg?e=oTwOns
 
 Document list (FINAL REPORT TEMPLATE):
 - 20-30 pages
