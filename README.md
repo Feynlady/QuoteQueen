@@ -18,7 +18,8 @@ Final report (used DocumentList as a template):
 https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9NO6uhRdJmfkfHHB1eYQB35ZjujBbIWZ5qZfupPpJnA?e=ZRzzsc
 
 Presentation (Deliverable 2):
-TBA
+
+https://docs.google.com/presentation/d/1hwwva88cCm2emuUNEfXdXhN5BM7KyTfD4Ls2iRHoUaM/edit?usp=sharing
 
 
 ## TODO:
