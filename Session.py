@@ -26,7 +26,6 @@ class Session(object):
         uinput_split = user_input.split()
         if self.current.name != 'End':
             self.getParamValues(uinput_split)
-
     def getParamValues(self,uinput_split):
         for x in uinput_split:
             for y in self.parameters:
@@ -34,7 +33,7 @@ class Session(object):
                     y.values.append(x)
                     y.complete = True
                     self.plausibleQuotes = Quote_data.select(self.plausibleQuotes,y.name,x)
-                    #print(self.plausibleQuotes)
+                    print('len', len(self.plausibleQuotes))
         #print('CURRENT', self.current.name, ' complete ', self.current.complete )
         # change the current parameter, if all parameters have been filled, we set current to the end parameter
         #we need to see if this is actually what we want (entering life on the first line will automatically fill the parameter for tags and category)
@@ -44,8 +43,6 @@ class Session(object):
                 self.current = self.parameters[temp+1]
             else:
                 self.current = self.parameters[len(self.parameters)-1]
-
-
     def reply(self, user_input):
         '''Generate response to user input'''
         self.input_processor(user_input)
@@ -68,7 +65,7 @@ class Session(object):
                   ['Hello, can I interest you in a quote?',
                    'Hey there! Do you want a quote?',
                     'Goooooood Morning. A quote?']))
-        keywords = Parameter('Tags', Session.data.keywords, False,
+        keywords = Parameter('Tags', Session.data.keywords, True,
                              ['This is a prompt for the the keywords'])
         category = Parameter('Category',Session.data.category, True,
                              ['Tell me more about what kind of quote you would like',

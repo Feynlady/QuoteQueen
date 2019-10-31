@@ -5,14 +5,22 @@ from Session import Session
     Connectable to a GUI if anyone wants to do that...
 '''
 #TODO: GUI?
+
+
+class quote_main(object):
+    def __init__(self):
+        session = Session()
+        self.convo(session)
+
+
+    def convo (self, session):
+        print("START")
+        print('[QUOTE QUEEN]:', session.current.getPrompt())
+
+        inp = ""
+        while inp != "end":
+            inp = input('[User]: ')
+            print('[QUOTE QUEEN]:', session.reply(inp))
+
 if __name__ == "__main__":
-    session = Session()
-
-    print("START")
-    print('[QUOTE QUEEN]:', session.current.getPrompt())
-
-    inp = ""
-    while inp != "end":
-        inp = input('[User]: ')
-        print('[QUOTE QUEEN]:', session.reply(inp))
-
+    qm = quote_main()
