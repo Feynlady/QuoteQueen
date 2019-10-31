@@ -19,6 +19,7 @@ class Quote_data(object):
                 self.category[x] = 1
             else:
                 self.category[x] += 1
+        print(self.category)
 
     def select(self, data, column, word):
         if column in data.columns:
