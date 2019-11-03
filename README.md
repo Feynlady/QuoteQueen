@@ -27,8 +27,8 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] complete the scope document (the nine sections) to the best of your knowledge
 
 #### Final report (due 14th November):
-- [ ] Section 5: Remove FP analysis and use STORY POINTS - Story point analysis
-- [ ] Section 3: Detailed domain model with unit QUOTE (as data)
+- [x] Section 5: Remove FP analysis and use STORY POINTS - Story point analysis
+- [x] Section 3: Detailed domain model with unit QUOTE (as data)
 - [ ] Section 8: Earned Value Analysis (use assumptions when needed)
 - [ ] Section 9: Risk Analysis (use scope document for inspiration)
 - [ ] Section 10: Design document** (see Design document)
@@ -44,7 +44,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 #### Presentation (due 7th November):
 - [ ] Pinpoint Design (**see Design document)
 - [ ] Project outcomes
-- [ ] Prepare DEMO
+- [x] Prepare DEMO
 - [ ] Deep critical thinking and discussion of the results 
 
 
