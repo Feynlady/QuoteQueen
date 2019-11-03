@@ -31,19 +31,27 @@ class quote_main(object):
             inp = inputWin.get()
             if inp == "end":
                 win.quit()
+
+            conv_disp.configure(state='normal')
             conv.insert(tk.INSERT, '[USER]: ', 'username')
             conv.insert(tk.INSERT, inp + "\n", 'userinput')
+            conv_disp.configure(state='disabled')
+
             reply = session.reply(inp)
-            print(type(reply))
-            print(reply)
+            #print(type(reply))
+            #print(reply)
             if type(reply) is tuple:
                 quote = reply[0]
                 author = reply[2]
+                conv_disp.configure(state='normal')
                 conv_disp.insert('end', "[QUOTE QUEEN]: " + "\n", 'qqname')
                 conv_disp.insert('end', "\t" + quote + "\n", 'quote')
                 conv_disp.insert('end', "~ " + author + "\n\n", 'author')
+                conv_disp.configure(state='disabled')
             else:
+                conv_disp.configure(state='normal')
                 conv_disp.insert(tk.INSERT, "[QUOTE QUEEN]: " + reply + "\n")
+                conv_disp.configure(state='disabled')
             conv_disp.see(tk.END)
 
             inputWin.delete(0, "end")
@@ -54,10 +62,8 @@ class quote_main(object):
         win.title('QuoteQueen')
 
         # conversation display
-        conv_disp = tk.Text(win, height=10, width=70)
+        conv_disp = tk.Text(win, state='disabled', height=10, width=70)
         conv_disp.configure(font=("Helvetica", 12, "normal"))
-        print(tkfont.families())
-
 
         conv_disp.pack(fill=tk.BOTH, expand= True, padx=10, pady=5)
         conv_disp.tag_add('quote', '1.0', '1.end')
@@ -81,8 +87,10 @@ class quote_main(object):
         inputWin.bind('<Return>', (lambda event: displayInput(conv_disp)))
 
         #start conversation
+        conv_disp.configure(state='normal')
         conv_disp.insert(tk.INSERT, '[QUOTE QUEEN]: ', 'qqname')
         conv_disp.insert(tk.INSERT, session.current.getPrompt() + "\n")
+        conv_disp.configure(state='disabled')
 
         #update GUI
         win.mainloop()
