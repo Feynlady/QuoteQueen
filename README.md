@@ -43,9 +43,9 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 
 #### Presentation (due 7th November):
 - [ ] Pinpoint Design (**see Design document)
-- [ ] Project outcomes
+- [x] Project outcomes
 - [x] Prepare DEMO
-- [ ] Deep critical thinking and discussion of the results 
+- [x] Deep critical thinking and discussion of the results 
 
 
 
