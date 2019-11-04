@@ -5,11 +5,6 @@ SPMM Project 2019 - Quote Recommendation Chatbot
 Dataset:
 https://github.com/ShivaliGoel/Quotes-500K
 
-### Deliverable 2
-Canvas: https://reykjavik.instructure.com/courses/2722/assignments/20248
-
-Presentation: https://docs.google.com/presentation/d/1hwwva88cCm2emuUNEfXdXhN5BM7KyTfD4Ls2iRHoUaM/edit?usp=sharing
-
 ### Deliverable 3
 
 Scope document (also a part of final delivery):
@@ -32,7 +27,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] Section 8: Earned Value Analysis (use assumptions when needed)
 - [ ] Section 9: Risk Analysis (use scope document for inspiration)
 - [ ] Section 10: Design document** (see Design document)
-- [ ] Section 11: Deep critical thinking and discussion of the results - lessons learned and future work section
+- [ ] Section 11: Deep critical thinking and discussion of the results - lessons learned and future work section (add what we did not do thoroughly - feasibility analysis OR add a Fesibility analysis section in final report)
 
 #### **Design document (part of final report and presentation):
 - [ ] The application architecture, with reviewing each tier and connection between tiers. 
@@ -41,13 +36,10 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [ ] A summary of the design of components in the presentation tier, and a concise description of how you used the technologies, when possible.
 - [ ] A summary of configuration and management consideration (e.g., build tools, version control repositories, continuous integration tools, etc.)
 
-#### Presentation (due 7th November):
-- [ ] Pinpoint Design (**see Design document)
-- [x] Project outcomes
-- [x] Prepare DEMO
-- [x] Deep critical thinking and discussion of the results 
+### (PAST) Deliverable 2:
 
-
+Presentation: 
+https://docs.google.com/presentation/d/1hwwva88cCm2emuUNEfXdXhN5BM7KyTfD4Ls2iRHoUaM/edit?usp=sharing
 
 ### (PAST) Deliverable 1
 
