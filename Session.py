@@ -24,16 +24,18 @@ class Session(object):
         re.sub("[^a-zA-Z0-9_ <>=']", "", user_input)
         #scan the input for parameter values on cleaned input
         uinput_split = user_input.split()
-        if self.current.name != 'End':
-            self.getParamValues(uinput_split)
+        #if self.current.name != 'End':
+        self.getParamValues(uinput_split)
     def getParamValues(self,uinput_split):
         for x in uinput_split:
             for y in self.parameters:
                 if x in y.possible_values.keys():
                     y.values.append(x)
                     y.complete = True
-                    self.plausibleQuotes = Quote_data.select(self.plausibleQuotes,y.name,x)
-                    print('len', len(self.plausibleQuotes))
+                    temp = Quote_data.select(self.plausibleQuotes,y.name,x)
+                    if(len(temp) > 0):
+                        self.plausibleQuotes = temp
+                    print('len', len(self.plausibleQuotes), ' param ', y.name, ' word ', x)
         #print('CURRENT', self.current.name, ' complete ', self.current.complete )
         # change the current parameter, if all parameters have been filled, we set current to the end parameter
         #we need to see if this is actually what we want (entering life on the first line will automatically fill the parameter for tags and category)
@@ -52,10 +54,12 @@ class Session(object):
         #as mentioned earlier we are done atm when all parameters are filled, but more user input could give us more suitable quotes
         # (but being careful that we still have a plausible quote left)
         if self.current.name== 'End':
+            print( 'LENGTH', len(self.plausibleQuotes))
             if(len(self.plausibleQuotes) >0):
                 r = random.randrange(0,len(self.plausibleQuotes))
                 quote = self.plausibleQuotes.iloc[r]
                 prompt = quote[0], ' from ', quote[1]
+                #self.plausibleQuotes.drop(r)
         return prompt
     #these are the parameters we have at the minute, but I am thinking about making each category (we have 32) a parameter each.
     #we have about 25 000 tags, so these could be tokenized etc.
@@ -65,7 +69,7 @@ class Session(object):
                   ['Hello, can I interest you in a quote?',
                    'Hey there! Do you want a quote?',
                     'Goooooood Morning. A quote?']))
-        keywords = Parameter('Tags', Session.data.keywords, True,
+        keywords = Parameter('Tags', Session.data.keywords, False,
                              ['This is a prompt for the the keywords'])
         category = Parameter('Category',Session.data.category, True,
                              ['Tell me more about what kind of quote you would like',

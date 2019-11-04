@@ -5,9 +5,8 @@ import tkinter.font as tkfont
 '''
     This is the Main Class (our View). Right now, it is rather bland.
     It instantiates a session (our controller). It then listens for the users input and passes this input to the session to compute a reply.
-    Connectable to a GUI if anyone wants to do that...
+    Connected to GUI
 '''
-#TODO: BETTER GUI?
 
 
 class quote_main(object):

@@ -20,12 +20,16 @@ class Quote_data(object):
             else:
                 self.category[x] += 1
         print(self.category)
+        print(self.keywords)
 
     def select(self, data, column, word):
         if column in data.columns:
             product = data[data[column].str.contains(word, regex = False)]
             #print(product)
-            return product
+            if(len(product) > 0):
+                return product
+            else:
+                print('TOO SPECIFIC; NOT ENOUGH QUOTES')
         return data
 Quote_data = Quote_data()
 
