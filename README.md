@@ -24,14 +24,14 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 #### Final report (due 14th November):
 - [x] Section 5: Remove FP analysis and use STORY POINTS - Story point analysis
 - [x] Section 3: Detailed domain model with unit QUOTE (as data)
-- [ ] Section 8: Earned Value Analysis (use assumptions when needed)
+- [x] Section 8: Earned Value Analysis (use assumptions when needed)
 - [x] Section 9: Risk Analysis (use scope document for inspiration)
 - [ ] Section 10: Design document** (see Design document)
 - [ ] Section 11: Deep critical thinking and discussion of the results - lessons learned and future work section (add what we did not do thoroughly - feasibility analysis OR add a Fesibility analysis section in final report)
 
 #### **Design document (part of final report and presentation):
 - [ ] The application architecture, with reviewing each tier and connection between tiers. 
-- [ ] A summary of web page design or user interface design (how different views relate to each other). 
+- [x] A summary of web page design or user interface design (how different views relate to each other). 
 - [ ] Database design if possible
 - [ ] A summary of the design of components in the presentation tier, and a concise description of how you used the technologies, when possible.
 - [ ] A summary of configuration and management consideration (e.g., build tools, version control repositories, continuous integration tools, etc.)
