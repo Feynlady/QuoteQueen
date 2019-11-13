@@ -25,7 +25,7 @@ https://reykjavikuniversity-my.sharepoint.com/:w:/g/personal/giang19_ru_is/EZd9N
 - [x] Section 5: Remove FP analysis and use STORY POINTS - Story point analysis
 - [x] Section 3: Detailed domain model with unit QUOTE (as data)
 - [ ] Section 8: Earned Value Analysis (use assumptions when needed)
-- [ ] Section 9: Risk Analysis (use scope document for inspiration)
+- [x] Section 9: Risk Analysis (use scope document for inspiration)
 - [ ] Section 10: Design document** (see Design document)
 - [ ] Section 11: Deep critical thinking and discussion of the results - lessons learned and future work section (add what we did not do thoroughly - feasibility analysis OR add a Fesibility analysis section in final report)
 
